@@ -1,0 +1,18 @@
+/* EXTRA CLASS: Display gallery images of different height in a more flexible
+  fashion */
+.gallery-row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 10px; }
+
+/* MODIFICATION: Display carousel images always at full width */
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  width: 100%; }
+
+/* MODIFICATION: Display thumbnail images always at fill with */
+.thumbnail img {
+  width: 100%; }
+
+/* MODIFICATION: Add more margin below carousel */
+.carousel {
+  margin-bottom: 10px; }
