@@ -1,0 +1,130 @@
+Logbuch Hamburgcontest
+**********************************************************************************************
+
+Call:		DN1LWS
+DOK:		M21
+Locator:	JO43TQ
+Sektion:	C
+Mode:		SSB
+Adresse:	Parkstraße 1
+		25436 Uetersen
+Verantwortlich:	Wilhelm Stolp (DL4WS)
+OP:		Malte Schmitz
+		Andre Andersen
+Station:	FT736 - 80W PA - 10 Element Yagi
+
+QSO Anzahl:	40
+QSO-Punkte:	4072
+Multi-Punkte:	28
+Gesamt-Punkte:	114016
+
+**********************************************************************************************
+
+Datum		UTC	Call		RST rx	RST tx	DOK	Locator	QSO-Pkt.	Multis
+26.05.02	12:10	DL4MO		57	59	X37	JO50EN	351		2
+26.05.02	12:14	DJ6TK		59	59	E34	JO53FG	72		2
+26.05.02	12:15	DB7BN		59	59	M21	JO43SQ	4		1
+26.05.02	12:17	DL9HCO		59	59	E09	JO53CO	39		1
+26.05.02	12:18	DC2AM		59	59	E22	JO43WL	28		1
+26.05.02	12:19	DO1LKG		59	59	E12	JO53DS	44		1
+26.05.02	12:20	DO7BAF		59	59	E29	JO43XO	23		1
+26.05.02	12:21	DG0CC		53	59	S54	JO60KO	407		1
+26.05.02	12:23	DG2SRL		55	58	S36	JO61HN	310		1
+26.05.02	12:24	DH2SH		59	59	E29	JO43XO	23	
+26.05.02	12:25	DL1HDU		59	59	E02	JO43XN	25		1
+26.05.02	12:26	DO9LMS		59	59	E09	JO53CO	39	
+26.05.02	12:28	DO1HTW/p	54	59	E38	JO53DX	54		1
+26.05.02	12:29	DK0MBB		59	59	E37	JO43WM	24		1
+26.05.02	12:30	DO1HUF/p	59	59	E13	JO43VI	38		1
+26.05.02	12:32	DL1VPL		55	59	I07	JO61VA	409	
+26.05.02	12:33	DJ3AK		55	58	H24	JO52GJ	156		1
+26.05.02	12:35	DO1CRM		55	55	S55	JO50PW	325		1
+26.05.02	12:38	DC9AM		59	58	E09	JO53CQ	38	
+26.05.02	12:39	DL1SUN		55	59	V14	JO53PN	110	
+26.05.02	12:40	DL4HCZ		59	59	E04	JO43PP	22		1
+26.05.02	12:45	DJ3FR		59	59	E12	JO43XO	23	
+26.05.02	12:47	DF3XZ		59	58	E13	JO53AP	27	
+26.05.02	12:50	DO3LMP		53	54	M25	JO44KA	61		1
+26.05.02	12:52	DK9LJ		55	59	E12	JO53AR	27	
+26.05.02	12:56	DO1LK/p		59	55	E09	JO53OP	104	
+26.05.02	12:58	DJ8MS/p		52	52	V15	JO63CT	170		1
+26.05.02	13:00	DL0EL		57	57	I03	JO43FF	92	
+26.05.02	13:01	DL0FTG		55	55	FTG	JO53DP	44		1
+26.05.02	13:06	DO8HM/p		59	58	Z27	JO43WJ	36		1
+26.05.02	13:10	DG2HAM		59	59	E10	JO43JO	55		1
+26.05.02	13:15	DO7DC/p		57	57	O22	JO54NJ	125		1
+26.05.02	13:16	DJ1LD		59	59	E38	JO53FM	57	
+26.05.02	13:17	DL2LO		42	59	E39	JO53HQ	65	
+26.05.02	13:28	DB8AH		53	55	L08	JO31FL	325		1
+26.05.02	13:33	DB2HG		56	57	E12	JO43XR	22	
+26.05.02	13:39	DO1HX		55	59	E04	JO43RO	14	
+26.05.02	13:44	PD0RFV		55	59	---	JO32LS	204		2
+26.05.02	13:52	DK7LKW		59	59	E08	JO53CT	40		1
+26.05.02	13:54	DL8LAY		59	59	M21	JO43TQ	40	
+									------------------
+								Summe:	4072		28
+										114016	
+								
+								
+								
+								
+								
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
