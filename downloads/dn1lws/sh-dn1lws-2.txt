@@ -1,0 +1,34 @@
+Rufzeichen: DN1LWS  Locator: JO43TP   DOK: M21  Sektion: A   Band: 144Mhz
+
+Datum     Zeit    Rufzeichen  RST und QSO-Nr.  Locator  DOK  QSO-  Multi
+          UTC                gegeben  erhalten               Pkt. LOC DOK
+
+20.04.02  13:04   DL0RSH/p   59 001   59 003   JO44PD   M05   2    1   1
+20.04.02  13:11   DL0HMB     59 002   59 008   JO43VI   HMB  11    1   1
+20.04.02  13:15   DL5BG      59 003   59 004   JO43NL   I36   1        1
+20.04.02  13:18   DJ1LD      59 004   59 016   JO53FM   E38   2    1   1
+20.04.02  13:24   DL9HCO     59 005   59 007   JO53CO   E09   2        1
+20.04.02  13:27   DO1LK      59 006   59 005   JO54LD   E09   2    1
+20.04.02  13:27   DL3LED     59 007   59 009   JO53DP   E38   2
+20.04.02  13:29   DL1HDV     59 008   59 008   JO43XN   E02   1        1
+20.04.02  13:30   DO1HTW     59 009   59 005   JO53DX   E38   2
+20.04.02  13:31   DJ3FR      59 010   59 004   JO43XU   E12   1        1
+20.04.02  13:32   DO3LRB     59 011   59 004   JO43XU   E12   1
+20.04.02  13:33   DF2LH      59 012   59 002   JO53AR   E12   2
+20.04.02  13:35   DO5LAD     59 013   59 004   JO44SP   M13   2        1
+20.04.02  13:43   DO1LWG     59 014   53 002   JO44NF   M17   2        1
+20.04.02  13:45   DD3XV/p    59 015   59 026   JO43WJ   E21   1        1
+20.04.02  14:22   DK7LKW     59 016   59 076   JO53XT   E08   2        1
+20.04.02  14:51   DL6XAT     58 017   58 007   JO43VP   E15   1        1
+20.04.02  15:06   DK3RA      59 018   59 005   JO53LU   E10   2        1
+20.04.02  15:09   SK7MW      59 019   59 007   JO65MU         3    1
+20.04.02  15:15   DC2LF      59 020   59 010   JO54KF   M10   2    1   1
+20.04.02  15:36   DL0BWS     59 021   43 002   JO64EB   V07   3    1   1
+20.04.02  15:50   DG5LBA/p   59 022   53 063   JO52HX   M21   0    1   1
+20.04.02  15:58   DL7ANR     59 023   57 011   JO62PM   D14   3    1
+
+                                                     Summe:  50    9  16
+ 
+                                             Gesamt-Multi.:         25
+
+                                                    Gesamt:  1250

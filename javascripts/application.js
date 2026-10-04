@@ -1,0 +1,1 @@
+$(document).on("click",'[data-toggle="lightbox"]',function(a){a.preventDefault(),$(this).ekkoLightbox()}),$(function(){$("#qrg-panel-large").is(":hidden")&&($("#headerNavigation").addClass("toggle-collapse collapsed").click(function(){$("#headerNavigation").toggleClass("collapsed"),$("#collapseNavigation").collapse("toggle")}),$("#collapseNavigation").addClass("collapse"))});
