@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Kalender">
+  <circle cx="32" cy="32" r="27" stroke="#164A73" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="20" y="20" width="24" height="25" rx="2.5" stroke="#164A73" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 26.5h24M25 17.5v5M39 17.5v5" stroke="#164A73" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#164A73">
+    <circle cx="25.5" cy="31.5" r="1.4"/><circle cx="32" cy="31.5" r="1.4"/><circle cx="38.5" cy="31.5" r="1.4"/>
+    <circle cx="25.5" cy="37" r="1.4"/><circle cx="32" cy="37" r="1.4"/><circle cx="38.5" cy="37" r="1.4"/>
+    <circle cx="25.5" cy="42.5" r="1.4"/><circle cx="32" cy="42.5" r="1.4"/><circle cx="38.5" cy="42.5" r="1.4"/>
+  </g>
+</svg>
